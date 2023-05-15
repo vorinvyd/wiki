@@ -44,7 +44,7 @@
 > ![](<.gitbook/assets/image (21).png>)
 
 > **Бирка**\
-> ![](<.gitbook/assets/image (1).png>)
+> ![](<.gitbook/assets/image (1) (1).png>)
 
 > **Незерский росток**\
 > ![](<.gitbook/assets/image (13).png>)
