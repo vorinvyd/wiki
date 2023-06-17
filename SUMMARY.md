@@ -17,3 +17,7 @@
 * [Выдержка](alcohol/vyderzhka.md)
 * [Свойства напитков и эффекты](alcohol/svoistva-napitkov-i-effekty.md)
 * [Рецепты](alcohol/recepty.md)
+
+***
+
+* [📁 Сборка для игры](sborka-dlya-igry.md)
