@@ -7,6 +7,7 @@
 
 * [💬 Чаты](gameplay/chaty.md)
 * [🧾 Кастомные крафты](gameplay/readme.md)
+* [💿 Кастомные пластинки](gameplay/kastomnye-plastinki.md)
 * [🍂 Поры-года](gameplay/pory-goda.md)
 * [🍷 Напитки](gameplay/napitki/README.md)
   * [Ферментация](gameplay/napitki/fermentaci.md)
