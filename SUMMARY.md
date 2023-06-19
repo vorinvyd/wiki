@@ -1,23 +1,16 @@
 # Table of contents
 
-* [🧾 Кастомные крафты](README.md)
-
-## 🍂 Поры-года <a href="#seasons" id="seasons"></a>
-
-* [Зима](seasons/zima.md)
-* [Весна](seasons/vesna.md)
-* [Лето](seasons/leto.md)
-* [Осень](seasons/osen.md)
-
-## 🍷 Напитки <a href="#alcohol" id="alcohol"></a>
-
-* [Как же варить напитки?](alcohol/kak-zhe-varit-napitki.md)
-* [Ферментация](alcohol/fermentaci.md)
-* [Дистилляция](alcohol/distillyaciya.md)
-* [Выдержка](alcohol/vyderzhka.md)
-* [Свойства напитков и эффекты](alcohol/svoistva-napitkov-i-effekty.md)
-* [Рецепты](alcohol/recepty.md)
-
-***
-
+* [⭐ Начало](README.md)
 * [📁 Сборка для игры](sborka-dlya-igry.md)
+
+## 🎮 Геймплей <a href="#gameplay" id="gameplay"></a>
+
+* [💬 Чаты](gameplay/chaty.md)
+* [🧾 Кастомные крафты](gameplay/readme.md)
+* [🍂 Поры-года](gameplay/pory-goda.md)
+* [🍷 Напитки](gameplay/napitki/README.md)
+  * [Ферментация](gameplay/napitki/fermentaci.md)
+  * [Дистилляция](gameplay/napitki/distillyaciya.md)
+  * [Выдержка](gameplay/napitki/vyderzhka.md)
+  * [Свойства напитков и эффекты](gameplay/napitki/svoistva-napitkov-i-effekty.md)
+  * [Рецепты](gameplay/napitki/recepty.md)
